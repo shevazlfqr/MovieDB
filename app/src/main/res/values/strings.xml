@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieDB API</string>
+        <string name="backdrop_image">Backdrop Image</string>
+</resources>
